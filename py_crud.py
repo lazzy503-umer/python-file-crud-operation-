@@ -76,3 +76,4 @@ if password_input == "Lazzy503":
             check = False
 else:
     print("Invalid password. Access denied.")
+    print("THis is error file ")
